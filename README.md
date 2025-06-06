@@ -1,3 +1,4 @@
 # clone
 
-[git-clone](https://github.com/craftslab/gitclone)
+- [repo-scm-git](https://github.com/repo-scm/git)
+- [repo-scm-repo](https://github.com/repo-scm/repo)
